@@ -19,6 +19,7 @@
   "homepage": "https://github.com/JFKingsley/BetaCoin",
   "dependencies": {
     "async": "^0.9.0",
-    "psd": "meltingice/psd.js"
+    "phantom": "^0.6.5",
+    "phantomjs": "^1.9.7-15"
   }
 }
